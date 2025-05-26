@@ -177,10 +177,10 @@ const texts =
       ];
 
 const images = [
-  "../content/images/aboutus-landing.png",
-  "../content/images/erasmus-landing.jpeg",
-  "../content/images/erasmus1.png",
-  "../content/images/erasmus2.png",
+  "./content/images/aboutus-landing.png",
+  "./content/images/erasmus-landing.jpeg",
+  "./content/images/erasmus1.png",
+  "./content/images/erasmus2.png",
 ];
 
 let currentIndex = 0;
